@@ -1,0 +1,13 @@
+{
+  "EMBED_MODEL": "BAAI/bge-m3",
+  "RERANK_MODEL": "BAAI/bge-reranker-v2-m3",
+  "QA_MODEL": "deepset/roberta-base-squad2",
+  "GEN_MODEL": "Qwen/Qwen2.5-7B-Instruct",
+  "CHUNK_SIZE": 1200,
+  "CHUNK_OVERLAP": 200,
+  "TOP_K_CANDIDATES": 12,
+  "TOP_K_RERANKED": 6,
+  "HYBRID_ALPHA": 0.6,
+  "MIN_ANSWER_SCORE": 0.28,
+  "DEVICE": "cuda"
+}

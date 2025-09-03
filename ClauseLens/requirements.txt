@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+pydantic>=2
+numpy
+pandas
+tqdm
+faiss-cpu
+sentence-transformers
+FlagEmbedding
+rank_bm25
+transformers>=4.42.0
+accelerate>=0.33.0
+torch  # install appropriate CUDA build from pytorch.org if you have GPU
+PyMuPDF
+unstructured
+python-multipart
+scikit-learn
+streamlit
