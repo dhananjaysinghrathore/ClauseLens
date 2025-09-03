@@ -70,10 +70,3 @@ It is designed for industries like **energy, legal, and government procurement**
   - (Optional summarizer: Llama 3 / Qwen, local only)  
 
 ---
-
-## ▶️ Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/clauselens.git
-   cd clauselens
